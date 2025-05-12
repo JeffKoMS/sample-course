@@ -44,9 +44,10 @@ First, you need to ...
 1. Alternatively, for a developer audience, you can have them clone this repo if that seems more appropriate.
 1. If you need to include a multiline code block, indent it to match the bulleted list indent:
 
-    ```python
+    ```csharp
     # This is an example of an
     # indented code block.
+    using Azure.Identity;
     ```
 
 1. If you need to include a acreenshot, resize it to an appropriate size (so any "normal" formatted text in a partial screenshot is roughly the same size as this text - generally try to make screenshots of full application windows 800x600px (approx)). Store images in a **Media** subfolder and use markdown to add it to the page (remembering that file and folder names are case-sensitive). If the image is in a list, indent it, like this:
