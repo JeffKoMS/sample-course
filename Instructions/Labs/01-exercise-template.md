@@ -54,6 +54,16 @@ First, you need to ...
     echo $myName
     ```
 
+    ```python
+    # Connect to the Azure AI Foundry project
+    project_client = AIProjectClient.from_connection_string(
+         credential=DefaultAzureCredential
+             (exclude_environment_credential=True,
+              exclude_managed_identity_credential=True),
+         conn_str=PROJECT_CONNECTION_STRING
+    )
+    with project_client:
+    ```
 
 1. If you need to include a acreenshot, resize it to an appropriate size (so any "normal" formatted text in a partial screenshot is roughly the same size as this text - generally try to make screenshots of full application windows 800x600px (approx)). Store images in a **Media** subfolder and use markdown to add it to the page (remembering that file and folder names are case-sensitive). If the image is in a list, indent it, like this:
 
