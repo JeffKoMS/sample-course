@@ -67,6 +67,7 @@ myRg=rg-junk
 
     ```bash
     # Indented 4
+    myRg=rg-junk
     echo $myName
         # comment indented four spaces
         echo This should not be hard
