@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Exercise Title 22'
+    title: 'Exercise Title 22 updated lib'
 ---
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.
