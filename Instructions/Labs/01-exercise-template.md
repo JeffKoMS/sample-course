@@ -49,15 +49,21 @@ First, you need to ...
 myRg=rg-junk
 ```
 
+1. indented 2
+
   ```bash
   # indented 2
   myRg=rg-junk
   ```
 
+1. indented 3
+
    ```csharp
    # Indented 3
    using Azure.Identity;
    ```
+
+1. Next is indented 4
 
     ```bash
     # Indented 4
@@ -65,7 +71,7 @@ myRg=rg-junk
         # comment indented four spaces
     ```
 
-1. junk
+1. Indented 5
 
      ```python
      #Indented 5
