@@ -1,4 +1,4 @@
-# remote_theme: JeffKoMS/mslearn-jekyll
+remote_theme: JeffKoMS/mslearn-jekyll
 exclude:
   - readme.md
   - .github/
@@ -11,5 +11,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-mentions
   - jemoji
-markdown: redcarpet
+markdown: kramdown
 title: Lab Exercises
