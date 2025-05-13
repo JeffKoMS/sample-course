@@ -65,7 +65,7 @@ myRg=rg-junk
 
 * Next is indented 4 after unordered
 
-    ```bash
+    ```
     # Indented 4
     myRg=rg-junk
     echo $myName
@@ -75,7 +75,7 @@ myRg=rg-junk
 
 1. Indented 4 after ordered list
 
-    ```python
+    ```
     #Indented 4
     # Connect to the Azure AI Foundry project
     project_client = AIProjectClient.from_connection_string(
