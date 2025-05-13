@@ -66,11 +66,11 @@ myRg=rg-junk
 * Next is indented 4 after unordered
 
     ```
-    # Indented 4
-    myRg=rg-junk
-    echo $myName
-        # comment indented four spaces
-        echo This should not be hard
+   # Indented 3 within a 4 space block indent
+   myRg=rg-junk
+   echo $myName
+       # comment indented four spaces
+       echo This should not be hard
     ```
 
 1. Indented 4 after ordered list
