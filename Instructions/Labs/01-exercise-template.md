@@ -63,7 +63,7 @@ myRg=rg-junk
    using Azure.Identity;
    ```
 
-     Next is indented 4, this is indented 5
+* Next is indented 4
 
     ```bash
     # Indented 4
