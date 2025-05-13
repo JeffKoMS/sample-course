@@ -44,21 +44,21 @@ First, you need to ...
 1. Alternatively, for a developer audience, you can have them clone this repo if that seems more appropriate.
 1. If you need to include a multiline code block, indent it to match the bulleted list indentation:
 
-```bash
+```
 # Not indented
 myRg=rg-junk
 ```
 
 1. indented 2
 
-  ```bash
+  ```
   # indented 2
   myRg=rg-junk
   ```
 
 1. indented 3
 
-   ```csharp
+   ```
    # Indented 3
    using Azure.Identity;
    ```
