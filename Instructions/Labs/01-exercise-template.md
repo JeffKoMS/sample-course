@@ -76,7 +76,7 @@ myRg=rg-junk
 1. Indented 4 after ordered list
 
     ```python
-    #Indented 5
+    #Indented 4
     # Connect to the Azure AI Foundry project
     project_client = AIProjectClient.from_connection_string(
         credential=DefaultAzureCredential
