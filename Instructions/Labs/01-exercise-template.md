@@ -48,8 +48,8 @@ First, you need to ...
 
 1. indented 3
 
-   ```csharp
-   # Indented 3
+   ```
+   # Indented 3, no language specified
    using Azure.Identity;
    ```
 
