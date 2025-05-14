@@ -35,7 +35,7 @@ Before you can start this exercise, you will need to...
 
 ## Task <!-- Change to an appropriate task title with an imperative verb phrase (e.g. "Do something") -->
 
-* Bullet with 'inline code'
+* Bullet with `inline code`
 
 First, you need to ...
 
