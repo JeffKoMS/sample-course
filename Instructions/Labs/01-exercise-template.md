@@ -46,28 +46,16 @@ First, you need to ...
 1. Alternatively, for a `developer audience`, you can have them clone this repo if that seems more appropriate.
 1. If you need to include a multiline code block, indent it to match the bulleted list indentation:
 
-```
-# Not indented
-myRg=rg-junk
-```
-
-1. indented 2
-
-  ```
-  # indented 2
-  myRg=rg-junk
-  ```
-
 1. indented 3
 
-   ```
+   ```csharp
    # Indented 3
    using Azure.Identity;
    ```
 
 * Next is indented 4 after unordered
 
-    ```
+    ```bash
    # Indented 3 within a 4 space block indent
    myRg=rg-junk
    echo $myName
@@ -77,7 +65,7 @@ myRg=rg-junk
 
 1. Indented 4 after ordered list
 
-    ```
+    ```csharp
     #Indented 4
     # Connect to the Azure AI Foundry project
     project_client = AIProjectClient.from_connection_string(
